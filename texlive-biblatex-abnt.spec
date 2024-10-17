@@ -3,7 +3,7 @@ Version:	49179
 Release:	2
 Summary:	BibLaTeX style for Brazil's ABNT rules
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-abnt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-abnt
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-abnt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-abnt.doc.r%{version}.tar.xz
