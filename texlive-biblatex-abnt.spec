@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-abnt
-Version:	49179
-Release:	2
+Version:	72565
+Release:	1
 Summary:	BibLaTeX style for Brazil's ABNT rules
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-abnt
